@@ -85,6 +85,6 @@ The analysis can help OTT platforms:
 - Support data-driven content planning
 
 #Author:
-Surya Sankar
+Suriya Sankar
 
 Aspiring Data Analyst | Power BI | SQL | Excel
